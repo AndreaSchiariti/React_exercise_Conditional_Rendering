@@ -1,0 +1,13 @@
+.welcome {
+  background-color: pink;
+  border: 2px solid rgb(128, 88, 145);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: fit-content;
+}
+
+.welcome p {
+  margin: 0;
+}
